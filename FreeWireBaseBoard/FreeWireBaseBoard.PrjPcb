@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=lib\ul_SLW-119-01-S-S\AltiumDesigner\5V0Regulator.SchDoc
+DocumentPath=5V0Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
